@@ -1,5 +1,5 @@
 # E-Commerce-platform-Sales-Analysis-in-SQL
-This project involves an advance analysis of sales of an E-Commerce platform by My SQL workbench.
+This project involves an advanced analysis of sales of an E-Commerce platform by My SQL workbench.
 
 ## Objective
 The project aims to understand the behavior of users and sellers on the platform, identify key performance indicators, and uncover potential areas for improvement. The analysis includes understanding sales trends, identifying top-selling products, analyzing payment methods, calculating return rates, and identifying inactive users. It also involves categorizing users based on their contribution to sales and identifying sellers who frequently delay orders. The insights gained from this project can help in making informed decisions to enhance user experience and improve operational efficiency.
